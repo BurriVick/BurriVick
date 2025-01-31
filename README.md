@@ -1,6 +1,6 @@
 - 👋 Hi Everyone,
 
-  Vikram Burri here, working as java api developer having 7+ years experience.
+  Vikram Burri
   
   -Technical Skills
     Java 
